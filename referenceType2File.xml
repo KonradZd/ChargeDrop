@@ -1,0 +1,1991 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>02bb13c020ff2f8469cbe1f301fb961c</guid>
+    <fileName>Assets/Scripts/CameraController.cs</fileName>
+    <timeStamp>2024-05-26T11:11:26.7753083+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>612d89c393ba9d9418a257beb83601dd</guid>
+    <fileName>Assets/Scripts/ChangeLevelBehaviour.cs</fileName>
+    <timeStamp>2023-07-24T17:24:21.2328092+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6d105554415054a4598026646ea96f17</guid>
+    <fileName>Assets/Scripts/Controls 1.cs</fileName>
+    <timeStamp>2024-07-13T18:20:56.2717785+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>87cfb08f2bf869349bc3f15bdeb66d8d</guid>
+    <fileName>Assets/Scripts/Controls.cs</fileName>
+    <timeStamp>2025-09-24T22:46:41.5308895+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d20b95d7067442841a1fca1d0b0fa3e0</guid>
+    <fileName>Assets/Scripts/cutsceneCamera.cs</fileName>
+    <timeStamp>2024-01-31T14:39:10.169812+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fe50ffc4f179c354ca4db28fa03af623</guid>
+    <fileName>Assets/Scripts/EnemiesManager.cs</fileName>
+    <timeStamp>2023-07-07T17:37:23.5309075+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0b1573fdb2664ac489d49d01ecc4b913</guid>
+    <fileName>Assets/Scripts/EnemyAI.cs</fileName>
+    <timeStamp>2025-03-30T21:33:00.6715098+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0072f879b202a234b828dc69956ea522</guid>
+    <fileName>Assets/Scripts/EnemyPatrol.cs</fileName>
+    <timeStamp>2023-07-08T13:07:33.352755+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>37446f419791b1e409f475626bc40fde</guid>
+    <fileName>Assets/Scripts/fallDamage.cs</fileName>
+    <timeStamp>2023-07-04T16:37:45.9931506+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7e0b533ef9f0337498e918a0f881b886</guid>
+    <fileName>Assets/Scripts/Hiding.cs</fileName>
+    <timeStamp>2023-07-01T15:32:08.1620075+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8787c8c1448cfe945b8fa437f083947d</guid>
+    <fileName>Assets/Scripts/LightManager.cs</fileName>
+    <timeStamp>2025-02-14T18:01:41.5308785+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5eb32b3c9373d37408d83ee2ebc9b0d9</guid>
+    <fileName>Assets/Scripts/Rotate.cs</fileName>
+    <timeStamp>2023-07-01T17:00:56.3534039+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fa5564f73ef36ed49afff1283d88f381</guid>
+    <fileName>Assets/Scripts/StickToObject.cs</fileName>
+    <timeStamp>2023-07-04T16:37:54.03291+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0dda3c22bd3346444991523910f0cd11</guid>
+    <fileName>Assets/Scripts/WaypointFollower.cs</fileName>
+    <timeStamp>2024-04-29T10:38:49.8342034+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ef9c2ffd761bd20438f29f4688d295dc</guid>
+    <fileName>Assets/Scripts/Audio/AmbienceManager.cs</fileName>
+    <timeStamp>2025-02-02T21:21:31.498025+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f7eb22f389878b440aa21876ed5f471c</guid>
+    <fileName>Assets/Scripts/Audio/AmbienceManagerVolume.cs</fileName>
+    <timeStamp>2024-12-17T20:43:18.3517045+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b21e07fda8f33e348a82e5923c52390f</guid>
+    <fileName>Assets/Scripts/Audio/AmbienceOnEnable.cs</fileName>
+    <timeStamp>2024-09-08T16:21:13.2207268+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d57cebd41354a8441953122d6e913555</guid>
+    <fileName>Assets/Scripts/Audio/AudioChanceOnTriggerEnter.cs</fileName>
+    <timeStamp>2024-01-27T14:17:24.2523258+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>67348f84bd0482c4c95c85ce7166b503</guid>
+    <fileName>Assets/Scripts/Audio/AudioManager.cs</fileName>
+    <timeStamp>2024-12-17T20:43:18.3677051+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8b306a897f72a1a479aa0e00b19ff2d7</guid>
+    <fileName>Assets/Scripts/Audio/AudioSourceComponentControl.cs</fileName>
+    <timeStamp>2023-07-03T18:13:34.2260178+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74b29071811e7cf4f884baec365896d2</guid>
+    <fileName>Assets/Scripts/Audio/CopyPitchOnEnable.cs</fileName>
+    <timeStamp>2025-01-01T13:44:18.7107231+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ff7a0e5c9fd572347b702ce2d716aede</guid>
+    <fileName>Assets/Scripts/Audio/EchoInArea.cs</fileName>
+    <timeStamp>2025-01-10T23:27:49.1979361+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>aa895535df0f2f346993e4ec38b4c3a5</guid>
+    <fileName>Assets/Scripts/Audio/FootstepsSwapper.cs</fileName>
+    <timeStamp>2024-10-03T16:11:36.313505+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>951e1a8fa8a5b2344aeb54e124c04e50</guid>
+    <fileName>Assets/Scripts/Audio/FootstepSwapperCollision.cs</fileName>
+    <timeStamp>2024-10-03T16:11:36.3255008+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9267b768175a3fd41acde71998d4b627</guid>
+    <fileName>Assets/Scripts/Audio/MainMenuMusic.cs</fileName>
+    <timeStamp>2025-02-16T12:36:44.2866909+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>848ff86b3ba63404b989f2ce313fc08c</guid>
+    <fileName>Assets/Scripts/Audio/PlayAudioSourceOnActiveStateChange.cs</fileName>
+    <timeStamp>2023-10-14T21:26:44.6211111+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>93c8b4dd6e0f92b46a6e2d917b154564</guid>
+    <fileName>Assets/Scripts/Audio/PlaySoundsInSequence.cs</fileName>
+    <timeStamp>2024-04-22T10:49:49.6978201+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0b844e385be216643b99a54f810320a4</guid>
+    <fileName>Assets/Scripts/Audio/RandomizePitch.cs</fileName>
+    <timeStamp>2024-06-02T19:13:39.0101442+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dfe952aabcccf4d4a91c35e6fb449550</guid>
+    <fileName>Assets/Scripts/Audio/RandomizeSound.cs</fileName>
+    <timeStamp>2024-06-05T15:19:32.4164262+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>91278561c1c264d4bb5cbd6ca4703ec9</guid>
+    <fileName>Assets/Scripts/Audio/RandomizeSoundSelectable.cs</fileName>
+    <timeStamp>2024-08-06T19:09:32.5070966+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9a2fab1c2fbee8840ba12d404db8099a</guid>
+    <fileName>Assets/Scripts/Audio/SFXVolume.cs</fileName>
+    <timeStamp>2024-06-05T15:58:57.9201422+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f3d0e39d14c36eb439e7c458d4ecd0f7</guid>
+    <fileName>Assets/Scripts/Audio/SFX_Interface.cs</fileName>
+    <timeStamp>2024-06-05T15:58:57.9271404+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4df36ab76ee565a40ab2b1a789a561e5</guid>
+    <fileName>Assets/Scripts/Audio/SlowMotionAudioArea.cs</fileName>
+    <timeStamp>2024-06-05T16:38:58.9280881+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e755d4727b4c917429ef62dae4c79715</guid>
+    <fileName>Assets/Scripts/Audio/Sound.cs</fileName>
+    <timeStamp>2023-07-01T20:13:21.6286713+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e1b91b1cffbc34b438de676e60428df0</guid>
+    <fileName>Assets/Scripts/Audio/TeleportGlobalSound.cs</fileName>
+    <timeStamp>2025-02-19T20:00:56.2567521+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dd515e59d8f0d8145ac1807462f6b914</guid>
+    <fileName>Assets/Scripts/Audio/UpdateVolumeOnAwake.cs</fileName>
+    <timeStamp>2024-08-17T23:34:38.9775299+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3b196cff1a4dd6049b7aa04301b5419f</guid>
+    <fileName>Assets/Scripts/Characters/CatchingPlayer.cs</fileName>
+    <timeStamp>2024-10-23T11:54:50.0782779+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a90b23c98f9fbaa4bbde7417a8ffd02a</guid>
+    <fileName>Assets/Scripts/Characters/CharacterAnimatorController.cs</fileName>
+    <timeStamp>2024-01-12T16:19:23.6974659+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>01ad63036e502ee469d424f0250f10bd</guid>
+    <fileName>Assets/Scripts/Characters/CharacterTeleport.cs</fileName>
+    <timeStamp>2025-02-08T16:03:05.5857778+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>24b4a907e321449459989d9a33bb5f13</guid>
+    <fileName>Assets/Scripts/Characters/HuntingPlayer.cs</fileName>
+    <timeStamp>2025-01-10T16:36:51.3522759+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6797c637b5f9f5c4b8a53a65e1b848c1</guid>
+    <fileName>Assets/Scripts/Characters/ImpFlyingSound.cs</fileName>
+    <timeStamp>2024-06-05T15:21:57.1793837+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>99fa362ca8615f14891fee2a794f0ec7</guid>
+    <fileName>Assets/Scripts/Characters/PuriChaser.cs</fileName>
+    <timeStamp>2025-02-19T14:06:57.8229753+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e0c2eb71aa087cd458224dac35d2a16b</guid>
+    <fileName>Assets/Scripts/Characters/SleepOnTriggerEnter.cs</fileName>
+    <timeStamp>2025-02-08T16:06:36.6091669+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>189223aa036805a4fb47b52068e6e057</guid>
+    <fileName>Assets/Scripts/Characters/SpeechBubble.cs</fileName>
+    <timeStamp>2025-02-24T15:52:19.5236278+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2b72e6f2f6c1ab543bb2b407642c2d51</guid>
+    <fileName>Assets/Scripts/Characters/SpeechBubbleSet.cs</fileName>
+    <timeStamp>2024-08-26T11:56:29.5060312+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5107e053f24e07b41b22281cc1b7e4c1</guid>
+    <fileName>Assets/Scripts/Characters/SpeechBubblesManager.cs</fileName>
+    <timeStamp>2024-06-01T14:30:27.045351+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>edc979f795a9dc1488ea0b526ec43719</guid>
+    <fileName>Assets/Scripts/Characters/TextAnim.cs</fileName>
+    <timeStamp>2025-02-24T15:52:19.513628+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>437fe8a8f6a64c34fb897f12c00ee6a9</guid>
+    <fileName>Assets/Scripts/Characters/TextAnimUI.cs</fileName>
+    <timeStamp>2025-02-27T22:56:41.5532719+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e8bad7152a44c4b46b371a6d296ec397</guid>
+    <fileName>Assets/Scripts/DataPersistence/ActivateObjectAfterTime.cs</fileName>
+    <timeStamp>2025-01-02T14:47:39.7791447+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6ee3cfbd4f2415c4c952d3cf127a604b</guid>
+    <fileName>Assets/Scripts/DataPersistence/AutoSaveOnEnable.cs</fileName>
+    <timeStamp>2025-01-09T16:36:57.7316496+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c8cb4233ed05286479ed73e312c83f20</guid>
+    <fileName>Assets/Scripts/DataPersistence/DataPersistenceManager.cs</fileName>
+    <timeStamp>2025-03-30T21:32:18.7877061+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5661327038dd6a743ae1e9bab5f47aed</guid>
+    <fileName>Assets/Scripts/DataPersistence/DestroyTransferredDuplicates.cs</fileName>
+    <timeStamp>2024-08-26T11:56:29.4996807+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dea83d0f9a515744a8bcf71ac65c4627</guid>
+    <fileName>Assets/Scripts/DataPersistence/EnableObjectOnlyOnce.cs</fileName>
+    <timeStamp>2025-02-06T16:30:09.446483+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>75f84174704ed394d8f1ac55636d03a2</guid>
+    <fileName>Assets/Scripts/DataPersistence/FileDataHandler.cs</fileName>
+    <timeStamp>2025-02-14T18:08:04.1362679+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>607eb1738e184a141947284c00944015</guid>
+    <fileName>Assets/Scripts/DataPersistence/GalleryInitializer.cs</fileName>
+    <timeStamp>2025-02-13T12:07:31.7802888+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f56f3e730c1c7ff4eae124cce9ba37eb</guid>
+    <fileName>Assets/Scripts/DataPersistence/GalleryLoader.cs</fileName>
+    <timeStamp>2025-02-27T22:56:41.5282703+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6f94a4c87a7ddab4887cc5110466cc46</guid>
+    <fileName>Assets/Scripts/DataPersistence/GameData.cs</fileName>
+    <timeStamp>2025-02-16T22:21:55.8126088+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a6c157496e39432438769eb4488b0bf6</guid>
+    <fileName>Assets/Scripts/DataPersistence/IDataPersistence.cs</fileName>
+    <timeStamp>2023-07-11T17:18:02.8895699+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>65e6fa2bb73be5e44b0c0309fc679531</guid>
+    <fileName>Assets/Scripts/DataPersistence/InventoryItemsPersistence.cs</fileName>
+    <timeStamp>2024-08-26T11:56:29.5306655+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3b1f6f87b3a5f54428873f6290850139</guid>
+    <fileName>Assets/Scripts/DataPersistence/ISettingsPersistence.cs</fileName>
+    <timeStamp>2023-09-16T16:43:38.4020683+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cebd0169ec195964ea810c716242e794</guid>
+    <fileName>Assets/Scripts/DataPersistence/LoadSlots.cs</fileName>
+    <timeStamp>2025-03-02T15:29:25.0989345+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ecaf5057ef86378469d107e4b495e761</guid>
+    <fileName>Assets/Scripts/DataPersistence/LoadSlotsMenu.cs</fileName>
+    <timeStamp>2024-07-31T21:40:26.7961068+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e5f11ee8848f7874eb5d11622de2ba1e</guid>
+    <fileName>Assets/Scripts/DataPersistence/LockSavingWhileEnabled.cs</fileName>
+    <timeStamp>2025-01-05T21:06:49.4633971+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a1163e836c7b07d4d9244ddeb3d3fd38</guid>
+    <fileName>Assets/Scripts/DataPersistence/MarkGameAsCompleted.cs</fileName>
+    <timeStamp>2024-06-09T17:33:38.0297384+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>642ebe1da038a9140b93fa5876853f62</guid>
+    <fileName>Assets/Scripts/DataPersistence/MarkGameNearFinish.cs</fileName>
+    <timeStamp>2024-08-26T12:20:54.8729627+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fc33f058d5f0eb248b64f68821664c8b</guid>
+    <fileName>Assets/Scripts/DataPersistence/PlayerLightSync.cs</fileName>
+    <timeStamp>2025-02-17T22:01:12.3939271+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2ce762be130387945aba7b541fcb11f3</guid>
+    <fileName>Assets/Scripts/DataPersistence/SaveAndRandomizeLocalPosition.cs</fileName>
+    <timeStamp>2024-08-26T11:56:29.4847771+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e37271624ce71cc42956e02b4ce4e843</guid>
+    <fileName>Assets/Scripts/DataPersistence/SaveJoystickPosition.cs</fileName>
+    <timeStamp>2025-02-24T15:17:23.919524+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4e3a0eee029220a4e948d21495eaadd6</guid>
+    <fileName>Assets/Scripts/DataPersistence/SaveObjectPosition.cs</fileName>
+    <timeStamp>2025-01-10T15:56:14.2359281+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4d24cdd2a59c3954b92a9ec8f89d757b</guid>
+    <fileName>Assets/Scripts/DataPersistence/SaveObjectRotation.cs</fileName>
+    <timeStamp>2025-01-10T15:56:42.5947593+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d974293fa30f4e54886da9c7dcd9bc8a</guid>
+    <fileName>Assets/Scripts/DataPersistence/SaveObjectState.cs</fileName>
+    <timeStamp>2025-01-17T14:47:40.2369777+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>06b8ba113c2e2cd44a98c34accf8bedb</guid>
+    <fileName>Assets/Scripts/DataPersistence/SavePlayerPositionSomewhereElse.cs</fileName>
+    <timeStamp>2025-02-16T22:21:55.8276077+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5eebaa6e92a31944eb94e38ea0af49b7</guid>
+    <fileName>Assets/Scripts/DataPersistence/SaveSlots.cs</fileName>
+    <timeStamp>2025-03-02T15:29:25.1069027+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>99e5a0151ab00ff428e37d934cb79e1f</guid>
+    <fileName>Assets/Scripts/DataPersistence/SaveSlotsMenu.cs</fileName>
+    <timeStamp>2025-02-14T18:08:23.7237856+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5820afdcbccbece4fa348ee3c8296010</guid>
+    <fileName>Assets/Scripts/DataPersistence/SaveSpriteColor.cs</fileName>
+    <timeStamp>2024-06-03T10:25:46.9347897+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2f77a29066f604444b2967430534395c</guid>
+    <fileName>Assets/Scripts/DataPersistence/SaveWhichEntrance.cs</fileName>
+    <timeStamp>2024-01-30T22:31:14.3222422+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8097ef7f2896fb9478b5c64cc612ff30</guid>
+    <fileName>Assets/Scripts/DataPersistence/SavingDroppedItems.cs</fileName>
+    <timeStamp>2024-10-15T15:57:43.4126338+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f539b016604034742a7b2df970310db8</guid>
+    <fileName>Assets/Scripts/DataPersistence/SelfDestructWhenAlreadyExists.cs</fileName>
+    <timeStamp>2024-08-25T15:46:17.1051333+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cddbc3416926a1b48af51922dd2cb868</guid>
+    <fileName>Assets/Scripts/DataPersistence/SerializableDictionary.cs</fileName>
+    <timeStamp>2024-08-26T11:56:29.4548576+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7351a4e9891923841b1d01ba49038120</guid>
+    <fileName>Assets/Scripts/DataPersistence/SettingsData.cs</fileName>
+    <timeStamp>2025-02-23T21:57:56.9556003+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d62cd822aba67d6458c291dda8af9034</guid>
+    <fileName>Assets/Scripts/DataPersistence/SettingsDataHandler.cs</fileName>
+    <timeStamp>2023-12-03T13:29:10.9536091+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2f535415fda0bd04c876a59c0cc5ae9b</guid>
+    <fileName>Assets/Scripts/DataPersistence/SettingsMenuAutoSaving.cs</fileName>
+    <timeStamp>2024-08-27T17:33:44.0863502+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>539c8f397de49b640bf8ea0cb2a7acf5</guid>
+    <fileName>Assets/Scripts/DataPersistence/SettingsPersistenceManager.cs</fileName>
+    <timeStamp>2024-09-16T14:52:02.2534535+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a1fb3cd254492bd4baecac87a58e10ed</guid>
+    <fileName>Assets/Scripts/DataPersistence/SettingsTogglesPersistence.cs</fileName>
+    <timeStamp>2025-03-02T15:29:25.1219027+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2298c51fa7e2f2e41a9aeaf81db7bbe5</guid>
+    <fileName>Assets/Scripts/DataPersistence/TransferObjectBetweenScenes.cs</fileName>
+    <timeStamp>2024-09-06T21:33:33.1508606+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cd21516220526ab4db7840543b6a15f4</guid>
+    <fileName>Assets/Scripts/DataPersistence/TriggerLevelChange.cs</fileName>
+    <timeStamp>2025-01-06T14:11:43.0146836+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fce98fcb5ebf75843b23eb5466b7cafa</guid>
+    <fileName>Assets/Scripts/DataPersistence/TriggerNewGame.cs</fileName>
+    <timeStamp>2024-08-26T12:49:02.3686101+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>443aa209b8dec4d4a8144c455f11752b</guid>
+    <fileName>Assets/Scripts/Debug/AutosaveButton.cs</fileName>
+    <timeStamp>2024-08-28T11:59:56.9076939+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fed4172f7dedcc941b983b97bd155775</guid>
+    <fileName>Assets/Scripts/Debug/Benchmarking.cs</fileName>
+    <timeStamp>2024-08-29T17:45:38.2506466+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>330883439bc7cb64f9c2f6588ed444e7</guid>
+    <fileName>Assets/Scripts/Debug/DebugMenu.cs</fileName>
+    <timeStamp>2024-08-29T18:21:25.9583587+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>39683a033e1dc5348a6e306965a13485</guid>
+    <fileName>Assets/Scripts/Debug/EventTriggerExample.cs</fileName>
+    <timeStamp>2024-09-04T22:12:15.5503267+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9048bbfb57f0f1e4e86179590b68c0a3</guid>
+    <fileName>Assets/Scripts/Debug/FindAllObjectsWithLayer.cs</fileName>
+    <timeStamp>2025-03-30T21:32:18.7771624+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bc16f78cbcd8cb6499b7ac2e391b0169</guid>
+    <fileName>Assets/Scripts/Debug/SuperDebugging.cs</fileName>
+    <timeStamp>2025-03-30T21:33:00.6757193+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d17ebc0ce1106c24594b4106d830577e</guid>
+    <fileName>Assets/Scripts/Debug/TeleportPlayer.cs</fileName>
+    <timeStamp>2024-04-06T13:36:02.4685173+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>eecbca64ac9689e46bfa069c3ab2cc21</guid>
+    <fileName>Assets/Scripts/Editor/ApplyForceOnStartEditor.cs</fileName>
+    <timeStamp>2025-01-14T12:24:02.1768947+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4da895ece6b24f644be1848f98533305</guid>
+    <fileName>Assets/Scripts/Editor/FindAllAnimators.cs</fileName>
+    <timeStamp>2024-07-30T12:50:35.4612649+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>126347bc63caf1f4ca113419a228ddb3</guid>
+    <fileName>Assets/Scripts/Editor/GetTranscriptFromGallerySpeechLinesController.cs</fileName>
+    <timeStamp>2025-02-26T21:29:01.1755136+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>03239256ddf0fe74ca5c9df8d66df3cd</guid>
+    <fileName>Assets/Scripts/Editor/RenderPipelineRestoreEditorUtils.cs</fileName>
+    <timeStamp>2025-02-18T20:07:32.3705072+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>77941d468d4a59d47a6b705ec2de9fd2</guid>
+    <fileName>Assets/Scripts/Events/ActivateObjectOnTriggerEnter.cs</fileName>
+    <timeStamp>2024-08-26T11:56:29.4478762+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d287168dca50eec47bbf268388161118</guid>
+    <fileName>Assets/Scripts/Events/ActivateObjectsWhenOtherObjectsActivated.cs</fileName>
+    <timeStamp>2024-07-04T19:18:23.9907827+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4447809b3863c4a4489ba06a96c3e0dc</guid>
+    <fileName>Assets/Scripts/Events/AlchemyRoomEvent.cs</fileName>
+    <timeStamp>2024-05-17T15:25:28.92169+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a05771cc7c11f45489b635fb052f209c</guid>
+    <fileName>Assets/Scripts/Events/AnimationTrigger.cs</fileName>
+    <timeStamp>2023-12-15T20:45:41.8874302+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e84ba086d56f6744b9ed871e9eb05a35</guid>
+    <fileName>Assets/Scripts/Events/AuraCutsceneBubbles.cs</fileName>
+    <timeStamp>2025-02-19T16:37:58.8992948+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cacff7298e7257a4ea8e46bd21d734ff</guid>
+    <fileName>Assets/Scripts/Events/CandleHallwayPuzzleController.cs</fileName>
+    <timeStamp>2025-02-05T13:57:07.4834502+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4b65435833da0b5478cdbd7667b4a016</guid>
+    <fileName>Assets/Scripts/Events/CeilingFanBreaking.cs</fileName>
+    <timeStamp>2025-01-04T19:16:49.8717939+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>01b9593fb8055de40b13787e7f24a665</guid>
+    <fileName>Assets/Scripts/Events/CheckObjectStateOnEnable.cs</fileName>
+    <timeStamp>2024-07-04T19:10:17.6584162+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1375f2b54293779469e6010de76dbba5</guid>
+    <fileName>Assets/Scripts/Events/CopyAnimator.cs</fileName>
+    <timeStamp>2025-02-13T14:17:02.3940063+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0a04952ffae9d014680c3135d30ec88b</guid>
+    <fileName>Assets/Scripts/Events/CrystalHintTimer.cs</fileName>
+    <timeStamp>2024-08-29T18:04:22.5253664+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>176e49cc8cd30874eab2d9260243fac4</guid>
+    <fileName>Assets/Scripts/Events/CrystalWeightingScale.cs</fileName>
+    <timeStamp>2025-02-24T19:32:08.4569907+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c1aff0be00db10c42bd8df8dbf4f6b3f</guid>
+    <fileName>Assets/Scripts/Events/CrystalWeightingScalePlayer.cs</fileName>
+    <timeStamp>2024-08-14T13:47:07.6138+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b7060f72ab272404b8e29241dfce45a1</guid>
+    <fileName>Assets/Scripts/Events/Cutscene1Bubbles.cs</fileName>
+    <timeStamp>2025-02-16T22:21:55.8216063+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1504e8fa0dd32a74e837bcb8c5490c15</guid>
+    <fileName>Assets/Scripts/Events/Cutscene1PrRoom.cs</fileName>
+    <timeStamp>2024-06-18T17:51:57.6918057+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>261504966344e6d4cb4a958420c094f2</guid>
+    <fileName>Assets/Scripts/Events/CutsceneCandleHallway.cs</fileName>
+    <timeStamp>2025-02-19T18:36:17.7595585+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9a388e66839dd934389c8474b67804f0</guid>
+    <fileName>Assets/Scripts/Events/CutsceneSewerRiver.cs</fileName>
+    <timeStamp>2024-08-18T14:49:37.3276419+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>570e1090d49a6b24196981ef11ede0f7</guid>
+    <fileName>Assets/Scripts/Events/DarknessSafeZone.cs</fileName>
+    <timeStamp>2025-02-17T22:24:47.7705576+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3fd3f6bd5b7740640be270830eb4d989</guid>
+    <fileName>Assets/Scripts/Events/DarknessShadowCattubus.cs</fileName>
+    <timeStamp>2025-02-17T23:02:15.3792937+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>21c9b3af67e751b49a11793e26deb178</guid>
+    <fileName>Assets/Scripts/Events/EndCutsceneOnStart.cs</fileName>
+    <timeStamp>2024-08-22T21:59:16.6788827+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>88a4608c1ca55c240bfed35ad25ab234</guid>
+    <fileName>Assets/Scripts/Events/EndingCutscene.cs</fileName>
+    <timeStamp>2025-02-24T16:03:35.970911+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>28ac531e2ecc91b4a905d9ea8dbb7360</guid>
+    <fileName>Assets/Scripts/Events/EventGamingRoom.cs</fileName>
+    <timeStamp>2024-03-18T09:40:13.7541519+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9e9a6c017d747bf4795af9263026c98d</guid>
+    <fileName>Assets/Scripts/Events/FoodDestoyer.cs</fileName>
+    <timeStamp>2023-10-07T23:35:24.6224134+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9c8ac6b143fcedc42b4be809a934c5b0</guid>
+    <fileName>Assets/Scripts/Events/HydroponicsSystemBehaviour.cs</fileName>
+    <timeStamp>2023-10-10T19:27:36.3066321+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6e0e147b22fd25548a1a3cb88d387df1</guid>
+    <fileName>Assets/Scripts/Events/LockSavingInsideTrigger.cs</fileName>
+    <timeStamp>2025-02-06T16:30:09.4381206+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e12dc838ce0875c46ab84b52bda8a7ba</guid>
+    <fileName>Assets/Scripts/Events/LysandraAfterH.cs</fileName>
+    <timeStamp>2025-02-11T17:54:45.3137153+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bb83c3ede8d7f614786a78de945b2323</guid>
+    <fileName>Assets/Scripts/Events/LysandraCutscene.cs</fileName>
+    <timeStamp>2025-02-19T20:24:45.4002316+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3866e0aee5b5a5a46817f05e7046e883</guid>
+    <fileName>Assets/Scripts/Events/MirrorMoveButton.cs</fileName>
+    <timeStamp>2025-01-13T12:44:38.8960973+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>94824781c8938ab4baa21dd6eafd7a22</guid>
+    <fileName>Assets/Scripts/Events/PauseForCutscene.cs</fileName>
+    <timeStamp>2024-06-01T14:16:11.8122485+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0568a54dd3db9f44a9dfaa39b668f87c</guid>
+    <fileName>Assets/Scripts/Events/PerformanceTriggerToggleActive.cs</fileName>
+    <timeStamp>2024-08-14T21:50:14.05121+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>38e0c124030812d4eb8e0d9e78ac7e63</guid>
+    <fileName>Assets/Scripts/Events/PlayerCaughtMagicSprite.cs</fileName>
+    <timeStamp>2025-02-08T16:03:05.5756741+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>de20aa8ebbe065a4d80d3bf9a4865d13</guid>
+    <fileName>Assets/Scripts/Events/PortalIllusionDroppedItem.cs</fileName>
+    <timeStamp>2024-07-30T21:55:30.2964615+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>02061b8757c99ab48a1694cb338d9e67</guid>
+    <fileName>Assets/Scripts/Events/RenewFlashlight.cs</fileName>
+    <timeStamp>2024-05-16T21:19:37.8463283+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4a0339eae22a47c4d9d746bc62629469</guid>
+    <fileName>Assets/Scripts/Events/ScriptedLightFlicker.cs</fileName>
+    <timeStamp>2025-02-17T23:16:29.46075+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>71fd82be92e230e48b5dece1d8339447</guid>
+    <fileName>Assets/Scripts/Events/SeamlessPortal.cs</fileName>
+    <timeStamp>2023-12-19T20:33:06.1808621+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>60643a5c28513674daf770de81ff767d</guid>
+    <fileName>Assets/Scripts/Events/SetAnimatorTriggerOnActiveChange.cs</fileName>
+    <timeStamp>2025-01-12T22:05:37.5533783+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2342c19646820cc40af2e55caa1cb451</guid>
+    <fileName>Assets/Scripts/Events/SetPlayerCaughtMagicSpritePreset.cs</fileName>
+    <timeStamp>2024-12-28T22:23:12.6087724+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c53ae0eab5e93754e81a1bb7d9bb112a</guid>
+    <fileName>Assets/Scripts/Events/ShadowManipulatorEvents.cs</fileName>
+    <timeStamp>2024-08-18T13:12:33.810695+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>457ca386580fc034597d1ee72d9db3d7</guid>
+    <fileName>Assets/Scripts/Events/ShadowsMechanism.cs</fileName>
+    <timeStamp>2024-08-20T16:07:05.3361565+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>88ae0092dd9868a4d814684495f29fea</guid>
+    <fileName>Assets/Scripts/Events/SlowMotionActivator.cs</fileName>
+    <timeStamp>2024-08-06T11:58:10.8417107+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6ad4a85021be4a249b29ced9050fe9d2</guid>
+    <fileName>Assets/Scripts/Events/TriggerCandlesPuzzleStatus.cs</fileName>
+    <timeStamp>2024-07-07T21:06:00.3309675+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8ddc62fe32a143b42b943e77b9b3f7eb</guid>
+    <fileName>Assets/Scripts/Events/_UNUSED_CandleLightController.cs</fileName>
+    <timeStamp>2024-08-04T12:24:14.1013351+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ecbda880cba1ade46aa9cf889961e14a</guid>
+    <fileName>Assets/Scripts/Identifiers/AmbienceSliderInstance.cs</fileName>
+    <timeStamp>2024-08-25T16:40:37.3191168+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4a80ce2b6321ddb48987107951170c87</guid>
+    <fileName>Assets/Scripts/Identifiers/AudioSlider.cs</fileName>
+    <timeStamp>2024-08-25T16:02:49.0410388+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f6119fe0e0fb6834a81c2a74704065f3</guid>
+    <fileName>Assets/Scripts/Identifiers/CheckForHax.cs</fileName>
+    <timeStamp>2024-08-13T13:13:12.9707774+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>50e3a8c3ee3473446aef1cb9c57f598b</guid>
+    <fileName>Assets/Scripts/Identifiers/SFXSliderInstance.cs</fileName>
+    <timeStamp>2024-08-25T16:40:37.3134086+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8a1e5965be9c21c429560c591f27d7e3</guid>
+    <fileName>Assets/Scripts/Identifiers/ThisIsFood.cs</fileName>
+    <timeStamp>2023-11-11T17:53:55.5840424+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0a28e25fa0ad8b64c82f150f72ad4124</guid>
+    <fileName>Assets/Scripts/Interactions/BookshelfInteract.cs</fileName>
+    <timeStamp>2024-08-17T23:30:06.6852337+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>239b928e4213f9d49ae572999e9cf6db</guid>
+    <fileName>Assets/Scripts/Interactions/BucketCrystalInteract.cs</fileName>
+    <timeStamp>2024-08-17T23:30:06.6783246+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>021dc9684fd687740804f85023fbce79</guid>
+    <fileName>Assets/Scripts/Interactions/CandleInteract.cs</fileName>
+    <timeStamp>2024-08-17T23:30:06.6716928+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6aeb7332de658fb428d2316e96466672</guid>
+    <fileName>Assets/Scripts/Interactions/CauldronCrystalInteract.cs</fileName>
+    <timeStamp>2024-08-17T23:30:06.6637188+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8d5364d779aa06744a9969fc6fc2100e</guid>
+    <fileName>Assets/Scripts/Interactions/ChandelierInteract.cs</fileName>
+    <timeStamp>2024-08-17T23:30:06.7702083+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>70cec33f92665a34da1f35632a256610</guid>
+    <fileName>Assets/Scripts/Interactions/CrystalBallInteract.cs</fileName>
+    <timeStamp>2024-08-30T13:25:39.4400622+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c131b556b4d9843469346553cd985f79</guid>
+    <fileName>Assets/Scripts/Interactions/DeactivateWithItem.cs</fileName>
+    <timeStamp>2024-08-26T11:56:29.4249368+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a5c245ce60333cd45a0ee4002b52af03</guid>
+    <fileName>Assets/Scripts/Interactions/DisableOnInteract.cs</fileName>
+    <timeStamp>2024-08-26T11:56:29.4169585+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>16be28a108f45f34496d450eec6fdeec</guid>
+    <fileName>Assets/Scripts/Interactions/DoorInteract.cs</fileName>
+    <timeStamp>2025-02-19T20:23:19.8794783+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>31650a651c3f2724794dbe599024dac0</guid>
+    <fileName>Assets/Scripts/Interactions/DoorLock.cs</fileName>
+    <timeStamp>2024-08-26T12:38:57.1288655+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>01f63db045fe5c544a6b6892b2473539</guid>
+    <fileName>Assets/Scripts/Interactions/DoorLockBetweenLevels.cs</fileName>
+    <timeStamp>2025-02-23T21:06:48.2284976+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>abfa8f7e82d51d54fba245d84b19c067</guid>
+    <fileName>Assets/Scripts/Interactions/ExitDoorLock.cs</fileName>
+    <timeStamp>2025-01-19T21:54:16.8158717+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d9eb76377ec7df34cbddd4ef40307ff9</guid>
+    <fileName>Assets/Scripts/Interactions/FaceplateUIItem.cs</fileName>
+    <timeStamp>2025-03-02T15:29:25.0899028+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>276107c5caca0d74c8568183e6bfd031</guid>
+    <fileName>Assets/Scripts/Interactions/GalleryInitializeOnEnable.cs</fileName>
+    <timeStamp>2024-02-28T17:54:27.7068375+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8d128eb66cc4cd442ad3103347d9e4d7</guid>
+    <fileName>Assets/Scripts/Interactions/GateBehavior.cs</fileName>
+    <timeStamp>2025-01-06T21:54:44.0824339+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d15fefc085fcebe4e88a841a661da160</guid>
+    <fileName>Assets/Scripts/Interactions/HatchKeyLock.cs</fileName>
+    <timeStamp>2024-08-26T11:56:29.3949912+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8e3d3c95e4296194d9e05ba1946a8489</guid>
+    <fileName>Assets/Scripts/Interactions/HidablesInterface.cs</fileName>
+    <timeStamp>2023-11-11T17:40:43.1688389+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>497076f4cd2e9e144a7a50409bb730af</guid>
+    <fileName>Assets/Scripts/Interactions/HiddenTeleportBarrier.cs</fileName>
+    <timeStamp>2024-08-17T19:09:01.9338099+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cefa054006ad9a74c98110508b144db2</guid>
+    <fileName>Assets/Scripts/Interactions/HidingCooldown.cs</fileName>
+    <timeStamp>2024-08-26T11:56:29.3870119+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3f1e6cf1a8b79b24fab81ea2cf200885</guid>
+    <fileName>Assets/Scripts/Interactions/HidingInteract.cs</fileName>
+    <timeStamp>2024-03-07T22:01:44.1501061+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>116010fb1fdf8e241b405a1de02deb4d</guid>
+    <fileName>Assets/Scripts/Interactions/HSceneInteract.cs</fileName>
+    <timeStamp>2024-07-26T12:37:13.5865708+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>32cadf21d6e9c3e45b45cd50c8a9dc39</guid>
+    <fileName>Assets/Scripts/Interactions/InteractablesInterface.cs</fileName>
+    <timeStamp>2023-12-12T23:49:00.7497065+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3f84fa7a521586447a83dbbb0ba52f96</guid>
+    <fileName>Assets/Scripts/Interactions/InteractWithDoorOnTriggerEnter.cs</fileName>
+    <timeStamp>2025-01-10T23:50:07.8761677+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6c5e1008711bc324a9b538ed96d2ee11</guid>
+    <fileName>Assets/Scripts/Interactions/ItemSet.cs</fileName>
+    <timeStamp>2024-08-26T11:56:29.5376475+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f371ee0d6b1d72044b8a256ae2d3b7c8</guid>
+    <fileName>Assets/Scripts/Interactions/LampInteract.cs</fileName>
+    <timeStamp>2024-08-26T22:57:23.8033349+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>68098e878db08a24383e7eea728eaaac</guid>
+    <fileName>Assets/Scripts/Interactions/PathBlock.cs</fileName>
+    <timeStamp>2024-08-26T11:56:29.3720881+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1aa9c974e93bb7946b7ee0afaef35a58</guid>
+    <fileName>Assets/Scripts/Interactions/PedestalInteract.cs</fileName>
+    <timeStamp>2025-02-17T14:43:42.8773572+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1fed97aa61ff7374888bf87b33d59ea1</guid>
+    <fileName>Assets/Scripts/Interactions/PianoInteract.cs</fileName>
+    <timeStamp>2023-12-17T19:27:54.6948383+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>311cb70a771924147b9e7ba8c3e63ccc</guid>
+    <fileName>Assets/Scripts/Interactions/SavePointInteract.cs</fileName>
+    <timeStamp>2024-12-28T22:23:12.5927723+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2d8c3533881c3cb4091f898806e55777</guid>
+    <fileName>Assets/Scripts/Interactions/ShadowProjector.cs</fileName>
+    <timeStamp>2025-01-06T21:32:53.7215363+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e1a3bc28002b747408a99d0a531a157f</guid>
+    <fileName>Assets/Scripts/Interactions/ShowInfoTextMessageOnInteract.cs</fileName>
+    <timeStamp>2024-07-26T12:37:13.5336045+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>be8bc45be11bf054a976b4dda863b776</guid>
+    <fileName>Assets/Scripts/Interactions/ShowTextAfterSelection.cs</fileName>
+    <timeStamp>2025-02-19T13:58:10.1726013+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6aa928af41ee2644e90fe6ea1c185305</guid>
+    <fileName>Assets/Scripts/Interactions/SkipButtonCooldown.cs</fileName>
+    <timeStamp>2024-08-26T11:56:29.3563122+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>027b7c052a5270a4f851aaac51ce42c2</guid>
+    <fileName>Assets/Scripts/Interactions/SlowMotionInteract.cs</fileName>
+    <timeStamp>2024-07-26T12:37:13.5495739+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a69d911652fef1343bf214f96f0a2110</guid>
+    <fileName>Assets/Scripts/Interactions/SwitchInteract.cs</fileName>
+    <timeStamp>2025-02-02T23:10:58.9619919+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5e90084eeb07d514e9dd9a62f9d42196</guid>
+    <fileName>Assets/Scripts/Interactions/ToggleMenuInteract.cs</fileName>
+    <timeStamp>2024-07-26T12:37:13.5645733+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7dd6ad3aefaedab45b473ecc0f899cd3</guid>
+    <fileName>Assets/Scripts/Interactions/UniversalInteract.cs</fileName>
+    <timeStamp>2024-08-28T12:03:39.9370965+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7a17b543a048500469d6e5e0d2c6cea2</guid>
+    <fileName>Assets/Scripts/Interactions/VanInteract.cs</fileName>
+    <timeStamp>2025-01-06T22:13:15.6231525+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cc11d99b1a6682f4cbc4aba1fcd9ac5d</guid>
+    <fileName>Assets/Scripts/Keybinds/RebindActionUI.cs</fileName>
+    <timeStamp>2024-07-20T11:50:16.5305682+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9c0266959836eb64ea8dbed8ab5508f1</guid>
+    <fileName>Assets/Scripts/Keybinds/RebindActionUIEditor.cs</fileName>
+    <timeStamp>2024-07-14T23:24:47.2166785+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d0b37132f84d9184e91deeea475ddfd5</guid>
+    <fileName>Assets/Scripts/Keybinds/RebindSaveLoad.cs</fileName>
+    <timeStamp>2024-07-14T23:36:57.5496409+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2a76b092c28f75642acae423924e5326</guid>
+    <fileName>Assets/Scripts/Objects/ACController.cs</fileName>
+    <timeStamp>2024-08-26T11:56:29.3481516+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>300845075fa45be43aeb1e707aed24d9</guid>
+    <fileName>Assets/Scripts/Objects/ActiveStateChangeWhenCalled.cs</fileName>
+    <timeStamp>2023-10-05T18:10:11.345126+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dace3bb642930e04f8136af4707512eb</guid>
+    <fileName>Assets/Scripts/Objects/AddForceToObject.cs</fileName>
+    <timeStamp>2024-07-30T21:55:30.2924588+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0f60f6e565475bc42945ece5224de7a4</guid>
+    <fileName>Assets/Scripts/Objects/ApplyForceOnStart.cs</fileName>
+    <timeStamp>2025-01-13T12:11:41.5362145+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9ab31d007effd6e43b0a4c9e374b4a13</guid>
+    <fileName>Assets/Scripts/Objects/CandlePuzzleStatus.cs</fileName>
+    <timeStamp>2024-07-07T21:06:00.3449679+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3fbd4c498aab4f74081c38102ab37e5a</guid>
+    <fileName>Assets/Scripts/Objects/ChangeObjectSpriteOnActiveChange.cs</fileName>
+    <timeStamp>2024-01-04T21:02:43.3469138+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>52632e5b202aa63468dfa033e55e7780</guid>
+    <fileName>Assets/Scripts/Objects/ChangeObjectSpriteOnSelect.cs</fileName>
+    <timeStamp>2024-04-16T19:10:16.0982785+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5a8f3f8b53474b24fb80267b3f0fa057</guid>
+    <fileName>Assets/Scripts/Objects/ChangeOtherActiveStateOnStart.cs</fileName>
+    <timeStamp>2023-12-14T22:19:53.6214346+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ad4cb13084cbe52478583b825c6fd522</guid>
+    <fileName>Assets/Scripts/Objects/ChangeOtherActiveStateOnThisActiveChange.cs</fileName>
+    <timeStamp>2025-01-12T14:10:06.3473386+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0b1081b6e09421c41b4f2b72c33e9f1d</guid>
+    <fileName>Assets/Scripts/Objects/ChangeScaleOnActiveChange.cs</fileName>
+    <timeStamp>2023-12-02T21:59:00.0961699+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2ae9743eab33eeb4ea53394f8e71bbaf</guid>
+    <fileName>Assets/Scripts/Objects/ChangeSpriteColorOnSelect.cs</fileName>
+    <timeStamp>2024-05-29T19:40:45.5440758+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ef5bcb52137fa4f4ba2761d4523f9f10</guid>
+    <fileName>Assets/Scripts/Objects/ClockHandsMove.cs</fileName>
+    <timeStamp>2025-03-02T15:35:42.9015744+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2cfaa019a1090c04c8531105e19addca</guid>
+    <fileName>Assets/Scripts/Objects/CrystalLaser.cs</fileName>
+    <timeStamp>2025-02-17T15:10:11.7816519+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8d72ea147ee1c1c48a86e455786f3bb9</guid>
+    <fileName>Assets/Scripts/Objects/DeactivateOnStart.cs</fileName>
+    <timeStamp>2023-09-14T18:18:58.3498575+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b52092e00dba41349819d4c2c89e8ac3</guid>
+    <fileName>Assets/Scripts/Objects/DrippingLiquid.cs</fileName>
+    <timeStamp>2024-04-29T10:38:49.8522045+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5b8806f28edfeae4484c71044e4127c5</guid>
+    <fileName>Assets/Scripts/Objects/DrippingSpace.cs</fileName>
+    <timeStamp>2025-03-30T21:32:18.7408289+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>050954214162a0c4e962ba4fb2f9c711</guid>
+    <fileName>Assets/Scripts/Objects/DroppedItem.cs</fileName>
+    <timeStamp>2024-08-26T11:56:29.3400855+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c492f5c82e0db4d4c96073f4ec3fc0af</guid>
+    <fileName>Assets/Scripts/Objects/FadeLightOnEnable.cs</fileName>
+    <timeStamp>2025-03-04T17:48:44.2436029+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0a7415c59ec83d042850d8f56ae10b9b</guid>
+    <fileName>Assets/Scripts/Objects/FadeSpriteOnEnable.cs</fileName>
+    <timeStamp>2025-02-18T22:33:44.6333496+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5c021cbecbeb5f14cb1ffb11c7302271</guid>
+    <fileName>Assets/Scripts/Objects/FakeOpenDoorRemote.cs</fileName>
+    <timeStamp>2025-02-15T14:47:36.1300671+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>49fd902fcc1ade344ace9e313c2f2836</guid>
+    <fileName>Assets/Scripts/Objects/FansBehaviour.cs</fileName>
+    <timeStamp>2023-09-13T19:29:07.0206194+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>36bf14888541c40428704c52296e32af</guid>
+    <fileName>Assets/Scripts/Objects/FireAlarmManager.cs</fileName>
+    <timeStamp>2024-08-26T11:56:51.2632382+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>240587dbd84854940b28af49890c301d</guid>
+    <fileName>Assets/Scripts/Objects/FloatInRandomDirection.cs</fileName>
+    <timeStamp>2024-07-30T21:55:30.2934603+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e11d2364ceea7a1418baf90a6a3dc1dc</guid>
+    <fileName>Assets/Scripts/Objects/LaserBeam.cs</fileName>
+    <timeStamp>2024-08-26T11:56:29.3237487+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dc85c1c1d0fc08444bbcbba6e8cdc893</guid>
+    <fileName>Assets/Scripts/Objects/Level1CornerRoom.cs</fileName>
+    <timeStamp>2023-08-20T12:08:13.5845421+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d236ba8cb4737a04ca7039dbba498574</guid>
+    <fileName>Assets/Scripts/Objects/LightAnimationAntiFlicker.cs</fileName>
+    <timeStamp>2025-01-20T22:10:16.762706+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1d1aa17a80a023c4c8164fbc8cc6938b</guid>
+    <fileName>Assets/Scripts/Objects/LightFlicker.cs</fileName>
+    <timeStamp>2024-10-18T16:03:41.4996532+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74a8f23034fd00242a203dd53acf6f86</guid>
+    <fileName>Assets/Scripts/Objects/LightToGreenTurner.cs</fileName>
+    <timeStamp>2023-09-19T23:34:03.0205659+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>21ff0738bf76fdd46b228fdc713f7385</guid>
+    <fileName>Assets/Scripts/Objects/MainMenuBackgroundLoader.cs</fileName>
+    <timeStamp>2024-12-29T19:48:55.6632817+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b277026097e4ea442b5db1ebc8269883</guid>
+    <fileName>Assets/Scripts/Objects/MainMenuBackgroundSaver.cs</fileName>
+    <timeStamp>2024-12-29T19:48:55.6713112+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>526afdfdaceff824292aaa5a530efd96</guid>
+    <fileName>Assets/Scripts/Objects/MakeObjectFacePlayer.cs</fileName>
+    <timeStamp>2024-02-07T11:42:35.4294086+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>618910bff432a4e479c25a6281b4ded9</guid>
+    <fileName>Assets/Scripts/Objects/MoveObjectSmoothlyBetweenTwoObjects.cs</fileName>
+    <timeStamp>2025-02-15T13:36:19.2887073+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b0a02fdb62d0c234d85592dfd1c97e2e</guid>
+    <fileName>Assets/Scripts/Objects/ObjectsActiveStateToggle.cs</fileName>
+    <timeStamp>2023-11-11T17:18:16.1834829+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ee408cf57f7c3be4398f350b77abef1e</guid>
+    <fileName>Assets/Scripts/Objects/ObjectsGenerator.cs</fileName>
+    <timeStamp>2024-02-18T14:45:07.4808631+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>81b95bbc07fc1e34e99b04c095678260</guid>
+    <fileName>Assets/Scripts/Objects/ObjectSizeMatchLightSize.cs</fileName>
+    <timeStamp>2024-08-28T11:49:14.5372333+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8346ef7038353a948943eda72916ac02</guid>
+    <fileName>Assets/Scripts/Objects/PendulumMovement.cs</fileName>
+    <timeStamp>2023-09-29T17:05:59.4624648+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>364111570ce901f4a89b457e9224c9bc</guid>
+    <fileName>Assets/Scripts/Objects/PlayRandomSoundOnCollision.cs</fileName>
+    <timeStamp>2024-09-04T12:52:24.0652083+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4daf7ff3605eae745852bb99d0b27a4a</guid>
+    <fileName>Assets/Scripts/Objects/SectionLightSwitch.cs</fileName>
+    <timeStamp>2024-05-21T15:04:19.4664173+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8171335f827ee184b901f7cdc48e8611</guid>
+    <fileName>Assets/Scripts/Objects/SetActiveFromSource.cs</fileName>
+    <timeStamp>2023-10-23T19:04:25.8875375+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9d3ab7292290b52449d0f76359df6a46</guid>
+    <fileName>Assets/Scripts/Objects/ShatteringFragments.cs</fileName>
+    <timeStamp>2025-01-10T23:11:26.7518478+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8623d1824e6b2524ab35fe7c7a3752e3</guid>
+    <fileName>Assets/Scripts/Objects/StairStep.cs</fileName>
+    <timeStamp>2025-02-14T12:41:01.5406965+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0a5051cb3090ed546a2d0b022eda2ce7</guid>
+    <fileName>Assets/Scripts/Objects/StopParticleSimulationAfterTime.cs</fileName>
+    <timeStamp>2025-02-24T19:28:40.9493606+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ea18a277e9229b043a4e1c711ec020bb</guid>
+    <fileName>Assets/Scripts/Objects/Teleport.cs</fileName>
+    <timeStamp>2025-01-13T12:44:38.9041037+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2e2857c128887ea449b4ddf0dfedab45</guid>
+    <fileName>Assets/Scripts/Objects/TeleportObjectHereOnActiveChange.cs</fileName>
+    <timeStamp>2024-03-10T21:46:38.8618166+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>df022113e27737044897200894db5637</guid>
+    <fileName>Assets/Scripts/Objects/TextureScroll.cs</fileName>
+    <timeStamp>2023-08-01T15:02:24.8964912+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8ba4b2b36e30fc7499bff674754014d2</guid>
+    <fileName>Assets/Scripts/Objects/ToggleActiveStatesOnTriggerEnter.cs</fileName>
+    <timeStamp>2024-08-26T11:56:29.3070922+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>95afe8608ae0f8b448a240f44aef3d3a</guid>
+    <fileName>Assets/Scripts/Objects/TreadmillEffector.cs</fileName>
+    <timeStamp>2024-07-30T21:55:30.2954602+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f3aea7909658b2943b6aa138eda03385</guid>
+    <fileName>Assets/Scripts/Player/AnimatorsActivatorOnTrigger.cs</fileName>
+    <timeStamp>2024-09-15T13:23:28.3234069+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>774c6eb55401ab9479e4618839696459</guid>
+    <fileName>Assets/Scripts/Player/AntiOutOfBounds.cs</fileName>
+    <timeStamp>2025-02-14T12:35:28.6566473+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fefad36c25553dd49ba43a64035ab060</guid>
+    <fileName>Assets/Scripts/Player/CrouchMechanics.cs</fileName>
+    <timeStamp>2025-02-14T12:24:10.4994797+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>87fa345b25369174dab8f6c757444bee</guid>
+    <fileName>Assets/Scripts/Player/CrouchTrigger.cs</fileName>
+    <timeStamp>2023-10-12T22:02:03.0369538+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1a57172f3d413444baaff2feed54b5a8</guid>
+    <fileName>Assets/Scripts/Player/FakePlayerLightSync.cs</fileName>
+    <timeStamp>2024-05-24T21:50:20.8731637+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>728cef4bee840dc4d8fd0d29ec331863</guid>
+    <fileName>Assets/Scripts/Player/FirecrackerItem.cs</fileName>
+    <timeStamp>2024-08-26T11:56:29.2991121+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>653ce06820cff924f90029628ee1a4fc</guid>
+    <fileName>Assets/Scripts/Player/FlipPlayerOnEnable.cs</fileName>
+    <timeStamp>2024-03-05T19:06:19.682896+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a9d733bc749c8f94b82b47f4c35c496c</guid>
+    <fileName>Assets/Scripts/Player/GalleryInputManager.cs</fileName>
+    <timeStamp>2025-03-01T18:22:51.3689558+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3f78dc655bc43ec4cb4c100eed91f745</guid>
+    <fileName>Assets/Scripts/Player/NoJumpArea.cs</fileName>
+    <timeStamp>2024-01-28T23:48:51.91429+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>beed5398bc9d01f43ac464835d40e7a9</guid>
+    <fileName>Assets/Scripts/Player/PlayerHoldingTorch.cs</fileName>
+    <timeStamp>2024-02-07T18:08:54.9991834+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>903675ef3e9524e4da13847025636616</guid>
+    <fileName>Assets/Scripts/Player/PlayerInputManager.cs</fileName>
+    <timeStamp>2025-02-19T14:48:01.2657691+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>af8273183384f6644852d4aec964922d</guid>
+    <fileName>Assets/Scripts/Player/playerMovement.cs</fileName>
+    <timeStamp>2025-02-16T22:21:55.8366067+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>19219c4f6ecb04047b8edee6da702d35</guid>
+    <fileName>Assets/Scripts/Player/PlayerTorchUISync.cs</fileName>
+    <timeStamp>2023-12-04T17:59:22.2609273+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6f19ea9af1a10fe4cbfeb0209c3abc29</guid>
+    <fileName>Assets/Scripts/Player/WaterMovement.cs</fileName>
+    <timeStamp>2024-08-18T15:50:17.092202+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>267b05e2887d0f24b89b81d18f010e1e</guid>
+    <fileName>Assets/Scripts/Switches/Level1StairsSwitch.cs</fileName>
+    <timeStamp>2025-02-02T23:00:45.5618449+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>242a7aa0eb4c17048aedf032690e888d</guid>
+    <fileName>Assets/Scripts/Switches/PowerAndLightSwitch.cs</fileName>
+    <timeStamp>2025-02-02T23:00:45.5688322+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8c5ea9e2e85dd8449ab178cd864ef9e1</guid>
+    <fileName>Assets/Scripts/Toys/ButtplugDebugStatus.cs</fileName>
+    <timeStamp>2025-02-27T22:56:41.4806175+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e55395e4040bb9847905b40c33628caf</guid>
+    <fileName>Assets/Scripts/Toys/MetronomeSpeedManager.cs</fileName>
+    <timeStamp>2025-02-27T22:56:41.5452697+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>11d59dd332de70a4f9125df469fcab26</guid>
+    <fileName>Assets/Scripts/Toys/StartServerProcessAndScan.cs</fileName>
+    <timeStamp>2025-02-27T22:56:41.5212713+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7525ddb8efc3346438f4ccfc195b81cc</guid>
+    <fileName>Assets/Scripts/Toys/ToysUIManager.cs</fileName>
+    <timeStamp>2025-02-27T22:56:41.4886198+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cd55e72b38beafb4da7d8923fce282ab</guid>
+    <fileName>Assets/Scripts/UI/AndroidBackToQuit.cs</fileName>
+    <timeStamp>2023-09-22T11:16:39.5660871+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7b947f97cc30f564382fd024cd662fd0</guid>
+    <fileName>Assets/Scripts/UI/AnimateCrystalBallHint.cs</fileName>
+    <timeStamp>2024-08-29T22:55:46.9467233+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c3a70466f43e2e044afa08e3ec559f53</guid>
+    <fileName>Assets/Scripts/UI/BatterySaver.cs</fileName>
+    <timeStamp>2025-02-20T12:29:40.4925068+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>34192944e420c84469bf9d50857220d2</guid>
+    <fileName>Assets/Scripts/UI/BoobaCodePG.cs</fileName>
+    <timeStamp>2025-03-02T15:29:25.0668921+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f71ee26762cf17d43b4285aaf7535bd7</guid>
+    <fileName>Assets/Scripts/UI/ButtonClickSound.cs</fileName>
+    <timeStamp>2025-02-02T21:17:53.2948203+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>19d65f70abf6cfe4bb5c5af126f5a0c1</guid>
+    <fileName>Assets/Scripts/UI/ButtonPressOnSelect.cs</fileName>
+    <timeStamp>2024-01-04T21:30:36.5439095+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7008bf473a621bc4db17d9cd8ec23c65</guid>
+    <fileName>Assets/Scripts/UI/ButtonSelectOnEnable.cs</fileName>
+    <timeStamp>2024-08-25T18:03:07.1353295+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>eafeab368f574a14e8a4cf998adff678</guid>
+    <fileName>Assets/Scripts/UI/CameraShake.cs</fileName>
+    <timeStamp>2025-02-17T23:16:29.4687594+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c43d130c573be214f90c7083bd2a52e4</guid>
+    <fileName>Assets/Scripts/UI/CameraShaker.cs</fileName>
+    <timeStamp>2024-05-23T21:18:11.314477+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6a8aa76875943cb448390817f47d0126</guid>
+    <fileName>Assets/Scripts/UI/CameraToTexture.cs</fileName>
+    <timeStamp>2024-01-03T22:51:25.076566+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>47985756dc07c084a8d8a2dedba963bc</guid>
+    <fileName>Assets/Scripts/UI/CauldronIngredientBehavior.cs</fileName>
+    <timeStamp>2024-08-26T11:56:29.2901208+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>09f407cf613327a41bb86d89ea4092b0</guid>
+    <fileName>Assets/Scripts/UI/CauldronWaterColorMaster.cs</fileName>
+    <timeStamp>2024-07-10T22:29:01.2765641+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c0dfc3ca6fdd4b3418b286f438cbb60c</guid>
+    <fileName>Assets/Scripts/UI/ChoiceMenuTimeLimit.cs</fileName>
+    <timeStamp>2024-08-26T11:56:29.282109+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0d7a8d144ffb3784fa70ee657676c2a2</guid>
+    <fileName>Assets/Scripts/UI/ConfimationMenu.cs</fileName>
+    <timeStamp>2024-08-26T11:56:29.27413+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>322bc4956f746404c9ede6daf16dc2bf</guid>
+    <fileName>Assets/Scripts/UI/ControlCharacterSpeechPanel.cs</fileName>
+    <timeStamp>2025-02-26T21:35:33.1175211+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>08541da089b15ae42a8603a72f0276cc</guid>
+    <fileName>Assets/Scripts/UI/CooldownTimer.cs</fileName>
+    <timeStamp>2024-08-26T11:56:29.2667722+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1d0755f0c4617324aa6376778d6e80cc</guid>
+    <fileName>Assets/Scripts/UI/DebugCurrentButtonSelected.cs</fileName>
+    <timeStamp>2023-12-10T22:23:42.3205003+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c08a8ca28541bdb4586cfd96a6b73483</guid>
+    <fileName>Assets/Scripts/UI/DisableTextAfterTime.cs</fileName>
+    <timeStamp>2024-04-06T11:30:06.4156347+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fe0768f8af87d6f408fe89b8665d36a3</guid>
+    <fileName>Assets/Scripts/UI/Fader.cs</fileName>
+    <timeStamp>2025-02-19T14:48:01.2547264+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0de672837ce32ba4b9d0e323d89d75f6</guid>
+    <fileName>Assets/Scripts/UI/FpsCounter.cs</fileName>
+    <timeStamp>2025-02-23T21:04:11.8016692+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a060eeb417d44e3418e38e9bc25e506d</guid>
+    <fileName>Assets/Scripts/UI/FramerateManager.cs</fileName>
+    <timeStamp>2025-09-24T23:00:38.7598394+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>752f3a61c5a5f7c40ac2bde2a0591062</guid>
+    <fileName>Assets/Scripts/UI/GallerySpeechLinesController.cs</fileName>
+    <timeStamp>2025-03-30T21:32:18.7917078+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8eab0ee8993e93e4b9da75a85af3034a</guid>
+    <fileName>Assets/Scripts/UI/InteractableButtonOnlyAndroid.cs</fileName>
+    <timeStamp>2025-03-02T15:29:25.0592499+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b070d1b93d49309429ff089411aff497</guid>
+    <fileName>Assets/Scripts/UI/InteractableButtonOnlyStandalone.cs</fileName>
+    <timeStamp>2025-03-02T15:29:25.0749063+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>97ea6f9302463934fb94445b8d432cb7</guid>
+    <fileName>Assets/Scripts/UI/JoystickController.cs</fileName>
+    <timeStamp>2025-02-24T15:17:23.9469207+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6e3324d263172f743b351dc2571f7e5e</guid>
+    <fileName>Assets/Scripts/UI/LoadGameButtonSelect.cs</fileName>
+    <timeStamp>2024-05-20T09:09:41.4986125+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bf0bf40db3d06174cb991bdcb31ca212</guid>
+    <fileName>Assets/Scripts/UI/LoadingScreen.cs</fileName>
+    <timeStamp>2025-01-06T14:11:43.021682+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>701e5b49a33091c4f8a15ba9d3916cbd</guid>
+    <fileName>Assets/Scripts/UI/LoadingScreenManager.cs</fileName>
+    <timeStamp>2023-07-23T19:14:04.7551301+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a9242bb6cf41012439a0b1402c9cc4b6</guid>
+    <fileName>Assets/Scripts/UI/MouseHoverSelection.cs</fileName>
+    <timeStamp>2024-07-14T23:21:48.48223+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f80906afad2a3674694ae2c424ecc2d6</guid>
+    <fileName>Assets/Scripts/UI/MoveObjectInHierarchy.cs</fileName>
+    <timeStamp>2023-09-26T15:43:13.941058+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>63d707c613dd7a547a969dc583ebbea2</guid>
+    <fileName>Assets/Scripts/UI/NavigationManager.cs</fileName>
+    <timeStamp>2024-05-10T15:14:33.5863355+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fb863e0a102236b45ad68ab3828393ee</guid>
+    <fileName>Assets/Scripts/UI/PauseMenu.cs</fileName>
+    <timeStamp>2025-02-27T22:56:41.5372704+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0b76ef26da521d9479bd48ea081b8507</guid>
+    <fileName>Assets/Scripts/UI/PlayItemPickupSoundRemote.cs</fileName>
+    <timeStamp>2025-02-13T13:56:35.6573088+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>919dff636c24711448de34d8885b666e</guid>
+    <fileName>Assets/Scripts/UI/PointerDownUpSound.cs</fileName>
+    <timeStamp>2024-09-04T22:18:17.7019175+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6d5fc688041439541a9a0c03a692d567</guid>
+    <fileName>Assets/Scripts/UI/PortraitGalleryMovingPainting.cs</fileName>
+    <timeStamp>2024-06-03T16:50:50.3464698+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>71ee8cacc81e84e47b21cec6051efbde</guid>
+    <fileName>Assets/Scripts/UI/PrepareDefaultSelected.cs</fileName>
+    <timeStamp>2025-02-13T13:49:40.8004284+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c43c79ca404a4e34db432571b58ae4f6</guid>
+    <fileName>Assets/Scripts/UI/PrinterBehavior.cs</fileName>
+    <timeStamp>2025-01-15T22:28:22.4898947+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>954aa97348f06e44cb6e7249ccd96fba</guid>
+    <fileName>Assets/Scripts/UI/PuaseOnLostFocus.cs</fileName>
+    <timeStamp>2024-08-13T13:05:32.5105292+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>adc24e64a30c12643abc383901c1c5fd</guid>
+    <fileName>Assets/Scripts/UI/QuitBehaviour.cs</fileName>
+    <timeStamp>2023-07-26T19:06:46.361992+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0efa6a550885c68429fb89c5162def93</guid>
+    <fileName>Assets/Scripts/UI/QuitGame.cs</fileName>
+    <timeStamp>2025-02-27T22:56:41.4967628+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3cc58b0436ad0f44fbf3d07a12f5ff33</guid>
+    <fileName>Assets/Scripts/UI/ResolutionControl.cs</fileName>
+    <timeStamp>2025-03-02T15:29:25.1139079+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a22ae151ae1005140a88326e93f9eff0</guid>
+    <fileName>Assets/Scripts/UI/SceneSelectMenu.cs</fileName>
+    <timeStamp>2024-06-07T18:08:15.6512717+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6fe1b5bbefabaa342926ecae6b0e9571</guid>
+    <fileName>Assets/Scripts/UI/ScriptsInitializer.cs</fileName>
+    <timeStamp>2024-04-02T22:42:52.768844+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>61d66e217bb8bcb4890a2c82bfaf9a54</guid>
+    <fileName>Assets/Scripts/UI/SelectableDynamicallyByMouse.cs</fileName>
+    <timeStamp>2024-01-04T18:35:03.6547057+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b0870db53b8fb764884afb11d4c66cbf</guid>
+    <fileName>Assets/Scripts/UI/SetImageToSpriteCopy.cs</fileName>
+    <timeStamp>2025-02-12T20:04:45.5492883+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6d10a9a1b0d371e49801589367da18bc</guid>
+    <fileName>Assets/Scripts/UI/ShowAutoTextDelayValue.cs</fileName>
+    <timeStamp>2024-04-26T17:11:44.9519693+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>83eafe124cb1caf4986db8098aab0fc5</guid>
+    <fileName>Assets/Scripts/UI/ShowMetronomeMultiplierValue.cs</fileName>
+    <timeStamp>2024-08-30T18:03:50.957683+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2ca9396b986ee5745892d5e5b2230c39</guid>
+    <fileName>Assets/Scripts/UI/ShowTextSpeedValue.cs</fileName>
+    <timeStamp>2024-05-20T09:02:20.2978569+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fb095e1cf88733843a01d727692d0368</guid>
+    <fileName>Assets/Scripts/UI/SkipNonInteractable.cs</fileName>
+    <timeStamp>2025-03-02T15:33:12.3901874+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cf103bcafec727a409af44b0d93e9077</guid>
+    <fileName>Assets/Scripts/UI/SliderInteractableVisual.cs</fileName>
+    <timeStamp>2024-06-01T19:45:09.8390086+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e8b400f5dbee053498ac08af01956f9b</guid>
+    <fileName>Assets/Scripts/UI/SpriteCopy.cs</fileName>
+    <timeStamp>2025-02-12T20:04:41.4552213+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>46af8976434ca604d82fec72d34e7197</guid>
+    <fileName>Assets/Scripts/UI/SpriteSynchronizer.cs</fileName>
+    <timeStamp>2023-09-08T18:50:41.4654173+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c2b32cd28c9c1ed46a25b0e73e44724f</guid>
+    <fileName>Assets/Scripts/UI/SwapTouchControls.cs</fileName>
+    <timeStamp>2024-10-15T15:27:16.5791019+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5ae54c45b94214e4f9582aa1e57b4d6e</guid>
+    <fileName>Assets/Scripts/UI/TimeScale0OnEnable.cs</fileName>
+    <timeStamp>2024-08-23T16:38:52.5746674+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ef1aa700b801a0840ae6d2ac8fe766c3</guid>
+    <fileName>Assets/Scripts/UI/ToggleHoverSelect.cs</fileName>
+    <timeStamp>2024-04-22T16:58:21.6728155+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9662d74b68c027c4c99cc4da28fd6706</guid>
+    <fileName>Assets/Scripts/UI/UIDefaultSelected.cs</fileName>
+    <timeStamp>2025-02-13T13:49:07.5925026+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bb44a17ab3201f8479738750b6347d69</guid>
+    <fileName>Assets/Scripts/UI/UIItemsCollected.cs</fileName>
+    <timeStamp>2025-02-13T13:56:35.6493112+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c9d5a4a88f537b944a293b0ebdc8f6de</guid>
+    <fileName>Assets/Scripts/UI/VSync.cs</fileName>
+    <timeStamp>2023-12-03T17:05:58.5671063+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>856f789f62266214795240a36d6ed47b</guid>
+    <fileName>Assets/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2024-06-01T15:39:43+02:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetCollector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aaa3a723b076a27408c07c777eddc704</guid>
+    <fileName>Assets/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2024-06-01T15:39:43+02:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9a251e0eaeb55a9458a092954474afe1</guid>
+    <fileName>Assets/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2024-06-01T15:39:43+02:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ClassReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>49aaa71abb5087945928d589da2f6f00</guid>
+    <fileName>Assets/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2024-06-01T15:39:43+02:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.CollectionData</string>
+      <string>UnitySweeper.TypeDate</string>
+      <string>UnitySweeper.IReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9671519f98131114b8e99e1ebd38ee22</guid>
+    <fileName>Assets/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2024-06-01T15:39:43+02:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a3943a50ab8138a48a4e9fb1781b28e7</guid>
+    <fileName>Assets/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2024-06-01T15:39:43+02:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>570d2dcbf10f9c443962cf52586cf5da</guid>
+    <fileName>Assets/Scripts/Events/Kora/FallingChandelierTrigger.cs</fileName>
+    <timeStamp>2025-02-16T21:30:48.9778831+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3dab304841c0b8c4b89b196fa33612b4</guid>
+    <fileName>Assets/Scripts/Events/Kora/KoraChandelierCollisionShatter.cs</fileName>
+    <timeStamp>2025-01-15T21:46:18.4275697+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5fc0098d181e14c4ca461adaf8068d81</guid>
+    <fileName>Assets/Scripts/Events/Kora/KoraChase.cs</fileName>
+    <timeStamp>2025-03-30T21:32:18.7837117+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e39863c799f82a542b92fe8095992be1</guid>
+    <fileName>Assets/Scripts/Events/Kora/KoraChaseNextStage.cs</fileName>
+    <timeStamp>2025-01-11T21:39:24.7058482+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e3424c9ccbc0e6142bb85d2423b9d2f0</guid>
+    <fileName>Assets/Scripts/Events/Kora/KoraReverseGravity.cs</fileName>
+    <timeStamp>2025-02-17T23:16:29.4520491+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fca61f377e377084fa172746dfe4dc0c</guid>
+    <fileName>Assets/Scripts/Events/Kora/KoraTeleportTrigger.cs</fileName>
+    <timeStamp>2025-02-02T22:25:33.3827917+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8f795c055122a9f49a556380cdc72396</guid>
+    <fileName>Assets/Scripts/Events/Kora/KoraThrowPieces.cs</fileName>
+    <timeStamp>2025-02-17T23:16:29.4845094+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fddbb364d3fccde4a95be2867c38da30</guid>
+    <fileName>Assets/Scripts/Events/Kora/PlatformPiecePlayerTrigger.cs</fileName>
+    <timeStamp>2025-01-14T18:08:54.8465557+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>81fab5553f20abd498803e6a903a0a87</guid>
+    <fileName>Assets/Scripts/Objects/Pooling/ObjectPooler.cs</fileName>
+    <timeStamp>2025-01-12T23:33:08.0407117+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>711d98592c8b8c047b2b8ab66580c1fd</guid>
+    <fileName>Assets/Scripts/Objects/Pooling/PieceCollisionParticle.cs</fileName>
+    <timeStamp>2025-01-11T12:36:16.9230545+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dbfd050cdfb590e46942e4b05c62f6fa</guid>
+    <fileName>Assets/Scripts/Objects/Pooling/PooledParticlesManager.cs</fileName>
+    <timeStamp>2025-01-12T23:33:46.0862145+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>84cd9b84e0604a9abafb77712f1df90a</guid>
+    <fileName>Assets/Samples/Input System/1.4.4/Rebinding UI/GamepadIconsExample.cs</fileName>
+    <timeStamp>2024-07-14T23:24:03.2018928+02:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+</ArrayOfTypeDate>
